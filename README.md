@@ -1,4 +1,4 @@
-# capstone_revised
+# capstone_DEanalysis
 Differential expression TCGA dataset
 
 This repository is a work in progress. The goal is to compare different DE analysis techniques e.g. manual (using Python to code the statistical tests) vs package based solutions (e.g. Bioconductor packages such as edgeR and DESeq2). We will also look at the different statistical utilities in Python (e.g. Bayesian methods, t-test, z-score, etc.). We will then compare the aggregate time required to complete a full analysis, using each different approach, and looking at factors such as the degree of complexity and coding time required to implement each of the different solutions.
